@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+}
+
+div {
+  border: 45px solid #df3886;
+  background-color: #f271ab;
+  flex: content;
+}
+.container {
+  margin: 20px auto;
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  margin: 1rem;
+  padding: 0.5rem;
+  color: aqua;
+  background-color: black;
+  border-radius: 1rem;
+}
+button:hover {
+  color: black;
+  background-color: aqua;
+  cursor: pointer;
+}
+
+ol {
+  list-style: decimal;
+  padding-left: 20px;
+}
+
+li {
+  font-size: 16px;
+  margin: 2px 0;
+  margin: 5px auto;
+  width: auto;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  background-color: #e88fb7;
+}
+
+li:hover {
+  background-color: #ffb4d6;
+}
